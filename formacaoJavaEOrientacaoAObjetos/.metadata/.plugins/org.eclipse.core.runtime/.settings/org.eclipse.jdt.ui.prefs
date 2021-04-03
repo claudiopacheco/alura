@@ -1,0 +1,11 @@
+command=C\:\\Users\\cpacheco\\.p2\\pool\\plugins\\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932\\jre\\bin\\javadoc.exe
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Funcionario"><rhs name\="EditorVideo"/></lhs><lhs name\="EditorVideo"><rhs name\="EditorVideo"/></lhs><lhs name\="ControleBonificacao"><rhs name\="ControleBonificacao"/></lhs><lhs name\="SistemaInterno"><rhs name\="SistemaInterno"/></lhs><lhs name\="AutenticacaoUtil"><rhs name\="AutenticacaoUtil"/></lhs><lhs name\="Tributavel"><rhs name\="SeguroDeVida"/></lhs><lhs name\="SeguroDeVida"><rhs name\="SeguroDeVida"/></lhs><lhs name\="CalculadorDeImposto"><rhs name\="CalculadorDeImposto"/></lhs><lhs name\="java.lang.RuntimeException"><rhs name\="java.lang.ArithmeticException"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.lang.ArithmeticException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.lang.ArithmeticException"/></lhs><lhs name\="java.lang.ArithmeticException"><rhs name\="java.lang.ArithmeticException"/></lhs><lhs name\="br.com.bytebank.banco.modelo.Tributavel"><rhs name\="br.com.bytebank.banco.modelo.ContaCorrente"/></lhs><lhs name\="br.com.bytebank.banco.modelo.Conta"><rhs name\="br.com.bytebank.banco.modelo.ContaPoupanca"/><rhs name\="br.com.bytebank.banco.modelo.ContaCorrente"/></lhs><lhs name\="br.com.bytebank.banco.modelo.ContaCorrente"><rhs name\="br.com.bytebank.banco.modelo.ContaCorrente"/></lhs><lhs name\="br.com.bytebank.banco.modelo.ContaPoupanca"><rhs name\="br.com.bytebank.banco.modelo.ContaPoupanca"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=20
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="java" deleted\="false" description\="Java statements" enabled\="true" name\="sout">System.out.println(${word_selection}${});${cursor}</template></templates>
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
