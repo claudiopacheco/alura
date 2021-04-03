@@ -87,9 +87,6 @@ public abstract class Conta {
 		return "Numero: " + this.numero + ", Agencia " + this.agencia;
 	}
 	
-	/*Equals é um padrão universal para comparação de objetos, 
-     * então se alguém que não conhece o seu projeto e quer comparar 
-     * dois objetos contas, essa pessoa vai tentar usar imediatamente o equals.*/
 	@Override
 	public boolean equals(Object ref) {
 		
